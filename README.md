@@ -1,16 +1,14 @@
-## Hi there 👋
+ # Hey there! 👋
 
-<!--
-**yrs-creates/yrs-creates** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Yashraj**, a student developer from India 🇮🇳 exploring the world of technology and building things that interest me.
 
-Here are some ideas to get you started:
+I'm currently focused on **Web Development, App Development, and Game Development** 💻 while constantly experimenting with new ideas and technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ I work with **HTML, CSS, JavaScript, React, Node.js, Python, C++, Git, GitHub, Firebase, Flutter, Unity, and Figma** — and I'm always learning something new.
+
+🚀 I'm currently building projects, experimenting with new technologies, participating in hackathons, and turning ideas into things that actually work.
+
+🤝 I'm always open to interesting ideas, collaborations, and conversations about tech.
+
+📫 **Instagram:** [@still_y.r.s](https://instagram.com/still_y.r.s)  
+📧 **Email:** [yashraj.aytcore@gmail.com](mail to:yashraj.aytcore@gmail.com)
